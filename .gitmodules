@@ -1,0 +1,3 @@
+[submodule "packages/apitoolkit/apitoolkit-php"]
+	path = packages/apitoolkit/apitoolkit-php
+	url = git@github.com:apitoolkit/apitoolkit-php.git
